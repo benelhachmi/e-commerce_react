@@ -1,0 +1,56 @@
+{
+    "Product": [
+      {
+        "id": 201,
+        "name": "Montre",
+        "price": "71DH",
+        "subCategoryId": 101,
+        "categoryId": 1,
+        "rate": 2.44,
+        "content": "1 pièce Montre à quartz à pointeur rond & 5 pièces Bracelet",
+        "review": 78,
+        "typeVariant": "D",
+        "colorVariant": "5",
+        "imageUrl": "https://img.ltwebstatic.com/images3_pi/2020/11/30/1606704751d0a359f5640b9e9dfd8fd7f654826c0f_thumbnail_600x.webp"
+      },
+      {
+        "id": 202,
+                "name": "Corporis",
+                "price": 271,
+                "subCategoryId": 101,
+                "categoryId": 1,
+                "rate": 2.18,
+                "content":"1 pièce Montre à quartz à pointeur rond & 5 pièces Bracelet",
+                "review": 67,
+                "typeVariant": "A",
+                "colorVariant": "4",
+                "imageUrl": "https://dummyimage.com/931x785"
+      },
+      {
+        "id": 203,
+                "name": "Minus",
+                "price": 295,
+                "subCategoryId": 101,
+                "categoryId": 1,
+                "rate": 0.91,
+                "content": "Quod reiciendis aspernatur ipsum cum debitis. Quisquam tempore doloremque quo ipsum ipsa tempora. Dignissimos qui ex ad facilis. Quo sequi recusandae eveniet autem ducimus nam.",
+                "review": 116,
+                "typeVariant": "E",
+                "colorVariant": "2",
+                "imageUrl": "https://img.ltwebstatic.com/images3_pi/2020/11/30/1606704751d0a359f5640b9e9dfd8fd7f654826c0f_thumbnail_600x.webp"
+      },
+      {
+        "id": 204,
+        "name": "Qui",
+        "price": 280,
+        "subCategoryId": 101,
+        "categoryId": 1,
+        "rate": 3.11,
+        "content": "Occaecati dolore assumenda facilis error quaerat. Rem harum alias cum eum quam corporis. Esse numquam vero facilis labore.",
+        "review": 78,
+        "typeVariant": "D",
+        "colorVariant": "3",
+        "imageUrl": "https://dummyimage.com/855x573"
+      }
+    ]
+  }
